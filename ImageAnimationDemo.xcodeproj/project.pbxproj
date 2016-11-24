@@ -15,6 +15,12 @@
 		B82CC1A41DE70623000DBEE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B82CC1A21DE70623000DBEE3 /* LaunchScreen.storyboard */; };
 		B82CC1AF1DE70624000DBEE3 /* ImageAnimationDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B82CC1AE1DE70624000DBEE3 /* ImageAnimationDemoTests.m */; };
 		B82CC1BA1DE70624000DBEE3 /* ImageAnimationDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B82CC1B91DE70624000DBEE3 /* ImageAnimationDemoUITests.m */; };
+		B82CC1C91DE70686000DBEE3 /* xia_off.png in Resources */ = {isa = PBXBuildFile; fileRef = B82CC1C71DE70686000DBEE3 /* xia_off.png */; };
+		B82CC1CA1DE70686000DBEE3 /* xia_on.png in Resources */ = {isa = PBXBuildFile; fileRef = B82CC1C81DE70686000DBEE3 /* xia_on.png */; };
+		B82CC1CD1DE7077F000DBEE3 /* jinxuan_off.png in Resources */ = {isa = PBXBuildFile; fileRef = B82CC1CB1DE7077F000DBEE3 /* jinxuan_off.png */; };
+		B82CC1CE1DE7077F000DBEE3 /* jinxuan_on.png in Resources */ = {isa = PBXBuildFile; fileRef = B82CC1CC1DE7077F000DBEE3 /* jinxuan_on.png */; };
+		B82CC1D11DE707DF000DBEE3 /* lan_off.png in Resources */ = {isa = PBXBuildFile; fileRef = B82CC1CF1DE707DF000DBEE3 /* lan_off.png */; };
+		B82CC1D21DE707DF000DBEE3 /* lan_on.png in Resources */ = {isa = PBXBuildFile; fileRef = B82CC1D01DE707DF000DBEE3 /* lan_on.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +57,12 @@
 		B82CC1B51DE70624000DBEE3 /* ImageAnimationDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImageAnimationDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B82CC1B91DE70624000DBEE3 /* ImageAnimationDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImageAnimationDemoUITests.m; sourceTree = "<group>"; };
 		B82CC1BB1DE70624000DBEE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B82CC1C71DE70686000DBEE3 /* xia_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = xia_off.png; sourceTree = "<group>"; };
+		B82CC1C81DE70686000DBEE3 /* xia_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = xia_on.png; sourceTree = "<group>"; };
+		B82CC1CB1DE7077F000DBEE3 /* jinxuan_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jinxuan_off.png; sourceTree = "<group>"; };
+		B82CC1CC1DE7077F000DBEE3 /* jinxuan_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jinxuan_on.png; sourceTree = "<group>"; };
+		B82CC1CF1DE707DF000DBEE3 /* lan_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lan_off.png; sourceTree = "<group>"; };
+		B82CC1D01DE707DF000DBEE3 /* lan_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lan_on.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +121,12 @@
 				B82CC1A01DE70623000DBEE3 /* Assets.xcassets */,
 				B82CC1A21DE70623000DBEE3 /* LaunchScreen.storyboard */,
 				B82CC1A51DE70623000DBEE3 /* Info.plist */,
+				B82CC1C71DE70686000DBEE3 /* xia_off.png */,
+				B82CC1C81DE70686000DBEE3 /* xia_on.png */,
+				B82CC1CB1DE7077F000DBEE3 /* jinxuan_off.png */,
+				B82CC1CC1DE7077F000DBEE3 /* jinxuan_on.png */,
+				B82CC1CF1DE707DF000DBEE3 /* lan_off.png */,
+				B82CC1D01DE707DF000DBEE3 /* lan_on.png */,
 				B82CC1941DE70623000DBEE3 /* Supporting Files */,
 			);
 			path = ImageAnimationDemo;
@@ -247,8 +265,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				B82CC1A41DE70623000DBEE3 /* LaunchScreen.storyboard in Resources */,
+				B82CC1D11DE707DF000DBEE3 /* lan_off.png in Resources */,
 				B82CC1A11DE70623000DBEE3 /* Assets.xcassets in Resources */,
+				B82CC1C91DE70686000DBEE3 /* xia_off.png in Resources */,
+				B82CC1CA1DE70686000DBEE3 /* xia_on.png in Resources */,
+				B82CC1CE1DE7077F000DBEE3 /* jinxuan_on.png in Resources */,
+				B82CC1CD1DE7077F000DBEE3 /* jinxuan_off.png in Resources */,
 				B82CC19F1DE70623000DBEE3 /* Main.storyboard in Resources */,
+				B82CC1D21DE707DF000DBEE3 /* lan_on.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -29,7 +29,7 @@
 
 简单好用，其实最方便的地方在于制作加载中的效果图，如下所示：
 
-![](http://img.blog.csdn.net/20161124194910063)
+![](https://github.com/Cloudox/ImagesAnimationDemo/blob/master/loadingDemo.gif)
 
 中间的动画就是由三张图片用这个方法组装成的，其实只要图片弄得好，还是能简单地做出很好很好的效果的~
 
